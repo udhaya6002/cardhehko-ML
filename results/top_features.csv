@@ -1,0 +1,51 @@
+model,feature,importance
+Ridge,car_age,-0.4597535203260273
+Ridge,max_power_bhp,0.24379942227210766
+Ridge,fuel_Diesel,0.17633034812109785
+Ridge,brand_Tata,-0.16100455650927514
+Ridge,engine_cc,0.10540501463763367
+Ridge,brand_Mahindra,-0.08860300608113823
+Ridge,brand_Chevrolet,-0.08287360575325159
+Ridge,brand_Ford,-0.0532617796538465
+Ridge,brand_Hyundai,-0.05170201272718932
+Ridge,brand_Datsun,-0.04211795640939256
+Lasso,car_age,-0.4576528796696559
+Lasso,max_power_bhp,0.25017506728207123
+Lasso,fuel_Diesel,0.13006509501315067
+Lasso,brand_Tata,-0.11967602448749731
+Lasso,engine_cc,0.10441992834463779
+Lasso,brand_Chevrolet,-0.05804969425043885
+Lasso,brand_Mahindra,-0.04286327909449448
+Lasso,brand_Toyota,0.04273352185077137
+Lasso,brand_Mercedes-Benz,0.040537389038968454
+Lasso,km_driven,-0.037827057618026357
+Random Forest,car_age,0.4144401113800087
+Random Forest,max_power_bhp,0.21881628998704203
+Random Forest,torque_nm,0.15631393723575351
+Random Forest,engine_cc,0.06590515780824645
+Random Forest,mileage_kmpl,0.02519298069512966
+Random Forest,km_driven,0.02408895633497727
+Random Forest,km_per_year,0.0148704854093629
+Random Forest,max_torque_rpm,0.014072367645873633
+Random Forest,transmission_Manual,0.012977013020503476
+Random Forest,seats,0.011740944387835637
+Gradient Boosting,car_age,0.5102592032414504
+Gradient Boosting,max_power_bhp,0.27342207714752087
+Gradient Boosting,torque_nm,0.07791001169702716
+Gradient Boosting,engine_cc,0.04984611626270535
+Gradient Boosting,brand_Tata,0.014709716110742245
+Gradient Boosting,mileage_kmpl,0.014536283610220017
+Gradient Boosting,km_driven,0.011425479745281025
+Gradient Boosting,transmission_Manual,0.00755188790651317
+Gradient Boosting,km_per_year,0.006679440869094847
+Gradient Boosting,seats,0.00617347039721105
+GB (permutation),car_age,0.6437381070728607
+GB (permutation),max_power_bhp,0.201846026707769
+GB (permutation),torque_nm,0.06849518281265375
+GB (permutation),engine_cc,0.031434476187756036
+GB (permutation),brand_Tata,0.029892905016795212
+GB (permutation),km_driven,0.012820130624319647
+GB (permutation),brand_Toyota,0.010015594037637864
+GB (permutation),mileage_kmpl,0.00945569681174433
+GB (permutation),brand_Chevrolet,0.007961478061976779
+GB (permutation),fuel_Petrol,0.006907668785735755

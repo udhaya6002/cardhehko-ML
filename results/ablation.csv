@@ -1,0 +1,2 @@
+full_model_r2,full_model_rmse,ablated_r2,ablated_rmse,dropped_features
+0.913246027235202,0.22013029971987036,0.8704197101120185,0.26903241653086146,"['car_age', 'km_per_year']"

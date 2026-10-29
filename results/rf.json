@@ -1,0 +1,11 @@
+{
+  "model": "Random Forest",
+  "best_params": "{'n_estimators': 300, 'min_samples_leaf': 2, 'max_features': 0.5, 'max_depth': 15}",
+  "cv_r2": 0.9135004815213632,
+  "r2_log": 0.9067214032464617,
+  "rmse_log": 0.22825807012532287,
+  "mae_log": 0.163770529312289,
+  "r2_rupee": 0.8866248365409584,
+  "rmse_rupee": 157688.38075021797,
+  "mae_rupee": 73932.83943028198
+}
